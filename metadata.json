@@ -1,0 +1,7 @@
+{
+  "name": "Krishi-Sight",
+  "description": "Expert agricultural plant pathology and disease diagnostic system for APAC smallholder farmers with multimodal leaf diagnosis, low-cost organic remedies, and multilingual voice assistance.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
